@@ -1,0 +1,13 @@
+{
+  "itemGroup.createtrainfares": "Example Mod Tab",
+  "block.createtrainfares.example_block": "Example Block",
+  "item.createtrainfares.example_item": "Example Item",
+
+  "createtrainfares.configuration.title": "Create: Train Fares Configs",
+  "createtrainfares.configuration.section.createtrainfares.common.toml": "Create: Train Fares Configs",
+  "createtrainfares.configuration.section.createtrainfares.common.toml.title": "Create: Train Fares Configs",
+  "createtrainfares.configuration.items": "Item List",
+  "createtrainfares.configuration.logDirtBlock": "Log Dirt Block",
+  "createtrainfares.configuration.magicNumberIntroduction": "Magic Number Text",
+  "createtrainfares.configuration.magicNumber": "Magic Number"
+}
